@@ -1,0 +1,19 @@
+
+
+How to make it fly:
+
+
+autoheader
+aclocal
+autoconf
+automake
+./configure
+make
+./example
+
+
+------------------
+
+Commands above should return no errors. 
+
+tonu@spam.ee
